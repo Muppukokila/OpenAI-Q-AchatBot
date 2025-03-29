@@ -1,0 +1,7 @@
+langchain_community
+langchain_core
+langchain-openai
+python-dotenv
+streamlit
+langchain-openai
+langchain
