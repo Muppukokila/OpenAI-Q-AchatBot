@@ -10,7 +10,7 @@ Excited to share that I have successfully built and deployed an AI-powered Q&A c
 ✅ Secure API key handling with .env
 
 🔧 Tech Stack:
-🔹 Python | Streamlit | OpenAI API | LangChain | dotenv
+🔹 Python | Streamlit | OpenAI API | LangChain | LLM  
 
 📌 Test Question:
 💬 "What is GenAI"
@@ -18,9 +18,6 @@ Excited to share that I have successfully built and deployed an AI-powered Q&A c
 One of the most well-known examples of generative AI is the language model GPT (Generative Pre-trained Transformer), which can generate human-like text based on input prompts. Other applications include generating realistic images with models like DALL-E or Stable Diffusion, creating music, and even designing objects.
 Generative AI holds promise for many applications, such as content creation, design, entertainment, and more, but also raises ethical considerations." (Boom! It works! 🚀)
 
-Next Steps? Looking to add memory and user authentication! 🔥
-
-Check out the GitHub repo here: [Add your repo link]
-Would love to hear your feedback and suggestions! 💬
+Check out the GitHub repo here: [https://github.com/Muppukokila/OpenAI-Q-AchatBot]
 
 #AI #Chatbot #OpenAI #LangChain #Streamlit #Python #MachineLearning
